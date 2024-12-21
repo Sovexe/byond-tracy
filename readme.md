@@ -4,6 +4,7 @@ byond-tracy glues together a byond server with the tracy profiler allowing you t
 ## supported byond versions
 | windows  | linux    |
 | -------- | -------- |
+| 516.1648 | 516.1648 |
 | 515.1647 | 515.1647 |
 | 515.1646 | 515.1646 |
 | 515.1645 | 515.1645 |
